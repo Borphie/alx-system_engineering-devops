@@ -1,4 +1,3 @@
 #!bin/bash
-DIRNAME="$(pwd ../ pwd ./)"
-echo $DIRNAME
-
+DIR="$(pwd ../ pwd./)"
+echo $DIR
