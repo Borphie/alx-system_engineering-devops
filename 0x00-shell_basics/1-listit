@@ -1,3 +1,3 @@
 #!/bin/bash
 LISTIT="$(ls .)"
-echo $LISTIT
+echo "$LISTIT"
