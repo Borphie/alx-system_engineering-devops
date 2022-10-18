@@ -1,5 +1,5 @@
 #!/bin/bash
 
-
-ls ./
+LISTIT="$(ls ./)"
+echo $LISTIT
 
